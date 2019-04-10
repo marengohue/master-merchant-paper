@@ -1,6 +1,5 @@
-body {
-    
-}
+@charset "utf8";
+
 .grid {
     display: grid;
     grid-column-gap: 3mm;
@@ -9,9 +8,17 @@ body {
 }
 .card {
    padding: 3mm;
-   border: 1px solid black;
-   width: 60mm;
-   height: 85mm;
+   border: 0.5px solid black;
+   border-radius: 3mm;
+   width: calc(52.88mm - 1px);
+   height: calc(78.28mm - 1px);
+}
+.inner {
+	padding: 3mm 2px;
+	border: 0.5px solid black;
+	width: calc(100% - 3px);
+	height: calc(100% - 6mm);
+	border-radius: 2mm;
 }
 .name {
     margin: 0;

@@ -1,0 +1,7 @@
+{
+    "name": "Hillocks",
+    "type": "lands",
+    "icon": "Ω",
+    "iconSize": "smaller",
+    "traits": ["Lands", "Settlement", "Dwarven"]
+}

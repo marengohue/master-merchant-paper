@@ -1,0 +1,7 @@
+{
+    "name": "Dark Pits",
+    "type": "lands",
+    "icon": "º",
+    "iconSize": "normal",
+    "traits": ["Lands", "Settlement", "Goblin"]
+}

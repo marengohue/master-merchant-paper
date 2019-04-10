@@ -1,0 +1,7 @@
+{
+    "name": "Forest",
+    "type": "lands",
+    "icon": "↟↟",
+    "iconSize": "smaller",
+    "traits": ["Lands", "Wilderness"]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Town",
+    "type": "lands",
+    "icon": "⟰",
+    "iconSize": "smaller",
+    "traits": ["Lands", "Settlement", "Mixed"]
+}

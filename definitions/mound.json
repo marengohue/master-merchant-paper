@@ -1,0 +1,7 @@
+{
+    "name": "Drinking Mound",
+    "type": "lands",
+    "icon": "∩",
+    "iconSize": "smaller",
+    "traits": ["Lands", "Settlement", "Dwarven"]
+}

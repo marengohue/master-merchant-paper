@@ -1,0 +1,7 @@
+{
+    "name": "River",
+    "type": "lands",
+    "icon": "≈",
+    "iconSize": "normal",
+    "traits": ["Lands", "Fresh Water"]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Hamlet",
+    "type": "lands",
+    "icon": "⌂",
+    "iconSize": "smaller",
+    "traits": ["Lands", "Settlement", "Human"]
+}

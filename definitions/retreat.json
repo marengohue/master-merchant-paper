@@ -1,0 +1,7 @@
+{
+    "name": "Forest Retreat",
+    "type": "lands",
+    "icon": "¶",
+    "iconSize": "smaller",
+    "traits": ["Lands", "Settlement", "Elven"]
+}

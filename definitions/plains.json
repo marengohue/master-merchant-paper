@@ -1,0 +1,7 @@
+{
+    "name": "Plains",
+    "type": "lands",
+    "icon": "⥭",
+    "iconSize": "smaller",
+    "traits": ["Lands"]
+}
