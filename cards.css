@@ -1,24 +1,66 @@
 @charset "utf8";
 
+@media print  
+{
+    .card {
+        page-break-inside: avoid;
+    }
+}
+body {
+    margin: 5px;
+}
+.grid-small {
+    position: relative;
+    display: grid;
+    grid-column-gap: 1mm;
+    grid-row-gap: 1mm;
+    grid-template-columns: auto auto auto auto auto auto;
+    height: 100vh;
+    min-height: 0;
+    min-width: 0;
+}
 .grid {
+    position: relative;
     display: grid;
     grid-column-gap: 3mm;
     grid-row-gap: 3mm;
     grid-template-columns: auto auto auto auto;
+    height: 100vh;
+    min-height: 0;
+    min-width: 0;
+}
+.card-small {
+    padding: 2mm;
+    border: 0.5px solid black;
+    border-radius: 2mm;
+    width: calc(38mm - 1px);
+    height: calc(60mm - 1px);
+    min-height: 0;  /* NEW */
+    min-width: 0;
 }
 .card {
-   padding: 3mm;
-   border: 0.5px solid black;
-   border-radius: 3mm;
-   width: calc(52.88mm - 1px);
-   height: calc(78.28mm - 1px);
+    position: relative;
+    padding: 3mm;
+    border: 1px solid black;
+    border-radius: 3mm;
+    width: calc(52.88mm - 2px);
+    height: calc(78.28mm - 2px);
+    min-height: 0;  /* NEW */
+    min-width: 0;
 }
 .inner {
-	padding: 3mm 2px;
-	border: 0.5px solid black;
-	width: calc(100% - 3px);
-	height: calc(100% - 6mm);
-	border-radius: 2mm;
+    padding: 3mm 2px;
+    border: 1px solid black;
+    width: calc(100% - 5px);
+    height: calc(100% - 8mm);
+    border-radius: 2mm;
+}
+.inner-small {
+    padding: 3mm 2px;
+    border: 1px solid black;
+    width: calc(100% - 5px);
+    height: calc(100% - 8mm);
+    border-radius: 1mm;
 }
 .name {
     margin: 0;
@@ -40,8 +82,14 @@
     font-size: 200;
     line-height: 75mm;
 }
+.icon-back-small {
+    display: block;
+    text-align: center;
+    font-size: 100;
+    line-height: 50mm;
+}
 .desc {
-    top: 20mm;
+    top: 20px;
     position: relative;
     display: block;
     text-align: center;

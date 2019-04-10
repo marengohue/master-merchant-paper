@@ -1,0 +1,53 @@
+{
+    "cardsPerPage": 18,
+    "cards": [
+        {
+            "card": "forest",
+            "count": 30
+        },
+        {
+            "card": "river",
+            "count": 10
+        },
+        {
+            "card": "plains",
+            "count": 50
+        },
+        {
+            "card": "hamlet",
+            "count": 1
+        },
+        {
+            "card": "village",
+            "count": 2
+        },
+        {
+            "card": "town",
+            "count": 1
+        },
+        {
+            "card": "hillocks",
+            "count": 1
+        },
+        {
+            "card": "pits",
+            "count": 1
+        },
+        {
+            "card": "mound",
+            "count": 1
+        },
+        {
+            "card": "retreat",
+            "count": 1
+        },
+        {
+            "card": "river",
+            "count": 5
+        },
+        {
+            "card": "forest",
+            "count": 5
+        }
+    ]
+}

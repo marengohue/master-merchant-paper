@@ -2,6 +2,6 @@
     "name": "River",
     "type": "lands",
     "icon": "≈",
-    "iconSize": "normal",
+    "iconSize": "smaller",
     "traits": ["Lands", "Fresh Water"]
 }
