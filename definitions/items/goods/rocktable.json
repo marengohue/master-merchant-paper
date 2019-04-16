@@ -1,0 +1,8 @@
+{
+    "name": "Rock Table",
+    "type": "item",
+    "cost": 2,
+    "icon": "п",
+    "iconSize": "normal",
+    "traits": ["Trade Goods", "*"]
+}

@@ -1,0 +1,109 @@
+{
+    "cardsPerPage": 18,
+    "cards": [
+        {
+            "card": "items/armor/breastplate",
+            "count": 5
+        },
+        {
+            "card": "items/armor/buckler",
+            "count": 5
+        },
+        {
+            "card": "items/armor/chainmail",
+            "count": 5
+        },
+        {
+            "card": "items/armor/shield",
+            "count": 5
+        },
+        {
+            "card": "items/containers/metalbarrel",
+            "count": 10
+        },
+        {
+            "card": "items/containers/woodbarrel",
+            "count": 20
+        },
+        {
+            "card": "items/edible/meat",
+            "count": 10
+        },
+        {
+            "card": "items/edible/roast",
+            "count": 10
+        },
+        {
+            "card": "items/edible/stew",
+            "count": 15
+        },
+        {
+            "card": "items/edible/sunshine",
+            "count": 5
+        },
+        {
+            "card": "items/edible/wine",
+            "count": 20
+        },
+        {
+            "card": "items/goods/anvil",
+            "count": 10
+        },
+        {
+            "card": "items/goods/cage",
+            "count": 10
+        },
+        {
+            "card": "items/goods/cutgem",
+            "count": 10
+        },
+        {
+            "card": "items/goods/ring",
+            "count": 10
+        },
+        {
+            "card": "items/goods/rock",
+            "count": 10
+        },
+        {
+            "card": "items/goods/rocktable",
+            "count": 20
+        },
+        {
+            "card": "items/goods/rockthrone",
+            "count": 20
+        },
+        {
+            "card": "items/goods/skin",
+            "count": 10
+        },
+        {
+            "card": "items/goods/table",
+            "count": 10
+        },
+        {
+            "card": "items/goods/throne",
+            "count": 10
+        },
+        {
+            "card": "items/goods/woodcage",
+            "count": 20
+        },
+        {
+            "card": "items/weapons/axe",
+            "count": 10
+        },
+        {
+            "card": "items/weapons/hammer",
+            "count": 10
+        },
+        {
+            "card": "items/weapons/pick",
+            "count": 10
+        },
+        {
+            "card": "items/weapons/sword",
+            "count": 10
+        }
+    ]
+}
