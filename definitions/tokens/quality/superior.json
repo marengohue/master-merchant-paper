@@ -1,0 +1,8 @@
+{
+    "name": "*",
+    "type": "token",
+    "cost": 3,
+    "icon": "*",
+    "iconSize": "normal",
+    "traits": []
+}

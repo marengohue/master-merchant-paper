@@ -1,0 +1,8 @@
+{
+    "name": "Silver",
+    "type": "token",
+    "cost": 12,
+    "icon": "Ag",
+    "iconSize": "smaller",
+    "traits": [ "Shiny" ]
+}

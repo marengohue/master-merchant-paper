@@ -1,0 +1,8 @@
+{
+    "name": "Medium",
+    "type": "token",
+    "cost": 5,
+    "icon": "M",
+    "iconSize": "normal",
+    "traits": []
+}

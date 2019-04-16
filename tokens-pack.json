@@ -1,0 +1,73 @@
+{
+    "cardsPerPage": 50,
+    "cards": [
+        {
+            "card": "tokens/material/copper",
+            "count": 20
+        },
+        {
+            "card": "tokens/material/iron",
+            "count": 15
+        },
+        {
+            "card": "tokens/material/bronze",
+            "count": 8
+        },
+        {
+            "card": "tokens/material/steel",
+            "count": 10
+        },
+        {
+            "card": "tokens/material/silver",
+            "count": 10
+        },
+        {
+            "card": "tokens/material/adamantite",
+            "count": 2
+        },
+        {
+            "card": "tokens/quality/fine",
+            "count": 30
+        },
+        {
+            "card": "tokens/quality/superior",
+            "count": 20
+        },
+        {
+            "card": "tokens/quality/exceptional",
+            "count": 10
+        },
+        {
+            "card": "tokens/quality/masterwork",
+            "count": 5
+        },
+        {
+            "card": "tokens/size/small",
+            "count": 10
+        },
+        {
+            "card": "tokens/size/normal",
+            "count": 10
+        },
+        {
+            "card": "tokens/size/large",
+            "count": 5
+        },
+        {
+            "card": "tokens/size/huge",
+            "count": 5
+        },
+        {
+            "card": "tokens/empty",
+            "count": 25
+        },
+        {
+            "card": "tokens/consumables/ale",
+            "count": 100
+        },
+        {
+            "card": "tokens/consumables/plumphelmet",
+            "count": 100
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Small",
+    "type": "token",
+    "cost": 3,
+    "icon": "S",
+    "iconSize": "normal",
+    "traits": []
+}

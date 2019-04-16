@@ -1,0 +1,8 @@
+{
+    "name": "Copper",
+    "type": "token",
+    "cost": 3,
+    "icon": "C",
+    "iconSize": "normal",
+    "traits": []
+}

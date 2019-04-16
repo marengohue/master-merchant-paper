@@ -1,0 +1,8 @@
+{
+    "name": "Bronze",
+    "type": "token",
+    "cost": 7,
+    "icon": "B",
+    "iconSize": "normal",
+    "traits": [ "Shiny" ]
+}

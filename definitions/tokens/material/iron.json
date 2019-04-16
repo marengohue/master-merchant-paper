@@ -1,0 +1,8 @@
+{
+    "name": "Iron",
+    "type": "token",
+    "cost": 8,
+    "icon": "I",
+    "iconSize": "normal",
+    "traits": []
+}

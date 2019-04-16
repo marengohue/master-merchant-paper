@@ -1,0 +1,8 @@
+{
+    "name": "Huge",
+    "type": "token",
+    "cost": 12,
+    "icon": "XL",
+    "iconSize": "normal",
+    "traits": []
+}

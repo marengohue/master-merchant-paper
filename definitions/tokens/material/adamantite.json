@@ -1,0 +1,8 @@
+{
+    "name": "Adamantite",
+    "type": "token",
+    "cost": 50,
+    "icon": "!!",
+    "iconSize": "smaller",
+    "traits": [ "Shiny" ]
+}
