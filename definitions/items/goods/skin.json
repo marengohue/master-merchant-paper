@@ -1,0 +1,8 @@
+{
+    "name": "Animal Skin",
+    "type": "item",
+    "cost": 2,
+    "icon": "{}",
+    "iconSize": "smaller",
+    "traits": ["Trade Goods"]
+}

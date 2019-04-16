@@ -1,0 +1,8 @@
+{
+    "name": "Shield",
+    "type": "item",
+    "cost": 5,
+    "icon": "[]",
+    "iconSize": "smaller",
+    "traits": ["Offhand", "+", "*"]
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Cage",
+    "type": "item",
+    "cost": 5,
+    "icon": "!!",
+    "iconSize": "smaller",
+    "traits": ["Trade Goods", "+", "*"]
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Rock",
+    "type": "item",
+    "cost": 1,
+    "icon": "x",
+    "iconSize": "smaller",
+    "traits": ["Trade Goods", "+", "(S)"]
+}

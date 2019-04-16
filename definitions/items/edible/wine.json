@@ -1,0 +1,8 @@
+{
+    "name": "Dwarven Wine",
+    "type": "item",
+    "cost": 3,
+    "icon": "(%)",
+    "iconSize": "smaller",
+    "traits": ["Drink"]
+}

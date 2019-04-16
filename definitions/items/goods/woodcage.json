@@ -1,0 +1,8 @@
+{
+    "name": "Wooden Cage",
+    "type": "item",
+    "cost": 2,
+    "icon": "!!",
+    "iconSize": "smaller",
+    "traits": ["Trade Goods"]
+}

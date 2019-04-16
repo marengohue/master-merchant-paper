@@ -1,0 +1,8 @@
+{
+    "name": "Rough Gem",
+    "type": "item",
+    "cost": 2,
+    "icon": "☼",
+    "iconSize": "smaller",
+    "traits": ["Trade Goods", "(S)"]
+}

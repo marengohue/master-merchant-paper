@@ -1,0 +1,8 @@
+{
+    "name": "Cut Gem",
+    "type": "item",
+    "cost": 5,
+    "icon": "♦",
+    "iconSize": "smaller",
+    "traits": ["Trade Goods", "Shiny", "(S)", "*"]
+}

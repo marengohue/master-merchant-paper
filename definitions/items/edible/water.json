@@ -1,0 +1,8 @@
+{
+    "name": "Fresh Water",
+    "type": "item",
+    "cost": 0,
+    "icon": "~",
+    "iconSize": "normal",
+    "traits": ["Drink", "Elven"]
+}

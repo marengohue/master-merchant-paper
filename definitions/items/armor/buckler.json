@@ -1,0 +1,8 @@
+{
+    "name": "Bucler",
+    "type": "item",
+    "cost": 3,
+    "icon": "o",
+    "iconSize": "normal",
+    "traits": ["Offhand", "+", "*"]
+}

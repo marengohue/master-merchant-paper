@@ -1,0 +1,8 @@
+{
+    "name": "Chainmail",
+    "type": "item",
+    "cost": 8,
+    "icon": "░",
+    "iconSize": "normal",
+    "traits": ["Armor", "+", "*"]
+}

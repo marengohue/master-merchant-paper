@@ -1,0 +1,8 @@
+{
+    "name": "Rock Throne",
+    "type": "item",
+    "cost": 2,
+    "icon": "h",
+    "iconSize": "normal",
+    "traits": ["Trade Goods", "*"]
+}

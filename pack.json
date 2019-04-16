@@ -2,51 +2,51 @@
     "cardsPerPage": 18,
     "cards": [
         {
-            "card": "forest",
+            "card": "lands/forest",
             "count": 30
         },
         {
-            "card": "river",
+            "card": "lands/river",
             "count": 10
         },
         {
-            "card": "plains",
+            "card": "lands/plains",
             "count": 50
         },
         {
-            "card": "hamlet",
+            "card": "lands/hamlet",
             "count": 1
         },
         {
-            "card": "village",
+            "card": "lands/village",
             "count": 2
         },
         {
-            "card": "town",
+            "card": "lands/town",
             "count": 1
         },
         {
-            "card": "hillocks",
+            "card": "lands/hillocks",
             "count": 1
         },
         {
-            "card": "pits",
+            "card": "lands/pits",
             "count": 1
         },
         {
-            "card": "mound",
+            "card": "lands/mound",
             "count": 1
         },
         {
-            "card": "retreat",
+            "card": "lands/retreat",
             "count": 1
         },
         {
-            "card": "river",
+            "card": "lands/river",
             "count": 5
         },
         {
-            "card": "forest",
+            "card": "lands/forest",
             "count": 5
         }
     ]

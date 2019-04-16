@@ -1,0 +1,8 @@
+{
+    "name": "Roast",
+    "type": "item",
+    "cost": 5,
+    "icon": "R",
+    "iconSize": "normal",
+    "traits": ["Food", "Lavish", "+"]
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Breastplate",
+    "type": "item",
+    "cost": 12,
+    "icon": "▄",
+    "iconSize": "normal",
+    "traits": ["Armor", "+", "*"]
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Wooden Barrel",
+    "type": "item",
+    "cost": 1,
+    "icon": "÷",
+    "iconSize": "normal",
+    "traits": ["Container", "Fluid"]
+}

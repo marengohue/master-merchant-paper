@@ -1,0 +1,8 @@
+{
+    "name": "Ring",
+    "type": "item",
+    "cost": 4,
+    "icon": "º",
+    "iconSize": "smaller",
+    "traits": ["Trade Goods", "+", "*"]
+}

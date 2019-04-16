@@ -1,0 +1,8 @@
+{
+    "name": "Sunshine",
+    "type": "item",
+    "cost": 3,
+    "icon": "≈",
+    "iconSize": "normal",
+    "traits": ["Drink", "+"]
+}

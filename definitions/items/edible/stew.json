@@ -1,0 +1,8 @@
+{
+    "name": "Stew",
+    "type": "item",
+    "cost": 3,
+    "icon": "S",
+    "iconSize": "normal",
+    "traits": ["Food", "Fine"]
+}

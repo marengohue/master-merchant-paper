@@ -1,0 +1,8 @@
+{
+    "name": "Dwarven Ale",
+    "type": "item",
+    "cost": 1,
+    "icon": "%",
+    "iconSize": "normal",
+    "traits": ["Drink", "Basic"]
+}

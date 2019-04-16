@@ -1,0 +1,8 @@
+{
+    "name": "Sword",
+    "type": "item",
+    "cost": 10,
+    "icon": "/",
+    "iconSize": "normal",
+    "traits": ["Weapon", "+", "*"]
+}

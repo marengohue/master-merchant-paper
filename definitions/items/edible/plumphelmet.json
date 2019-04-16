@@ -1,0 +1,8 @@
+{
+    "name": "Plump Helmet",
+    "type": "item",
+    "cost": 1,
+    "icon": "♠",
+    "iconSize": "normal",
+    "traits": ["Food", "Basic"]
+}
